@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-06)
+## Unreleased (2025-12-17)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`79f7d2e`](https://github.com/stdlib-js/stdlib/commit/79f7d2e71ea47b46dba013acc2440f9613901597) - **docs:** update return annotations to use ndarray instance notation for `stats/minabs` [(#9107)](https://github.com/stdlib-js/stdlib/pull/9107) _(by Pratik, Athan Reines)_
 -   [`ac2791d`](https://github.com/stdlib-js/stdlib/commit/ac2791d4895a2932decb9f998a6b81057d2111b9) - **docs:** update examples in `stats/minabs` [(#8826)](https://github.com/stdlib-js/stdlib/pull/8826) _(by Sachin Pangal)_
 -   [`2192360`](https://github.com/stdlib-js/stdlib/commit/21923606030eb12678894c265023c6d265a89968) - **test:** explicitly serialize dtypes to strings _(by Athan Reines)_
 -   [`e6b2007`](https://github.com/stdlib-js/stdlib/commit/e6b200700c411f81de9a89334950f57099971014) - **docs:** update examples _(by Athan Reines)_
@@ -37,10 +38,11 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Gururaj Gurram
+-   Pratik
 -   Sachin Pangal
 
 </section>
